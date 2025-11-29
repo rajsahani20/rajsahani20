@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raj Sahani</h1>
 <h3 align="center">A passionate AI-ML Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsahani20&label=Profile%20views&color=0e75b6&style=flat" alt="rajsahani20" /> </p>
 
